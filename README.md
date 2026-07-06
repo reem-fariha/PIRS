@@ -10,7 +10,7 @@
 [![Live Demo](https://img.shields.io/badge/Live%20Demo-Streamlit-FF4B4B?logo=streamlit)](https://pirs-v2.streamlit.app/)
 
 > **Capstone Project - VIT Chennai, April 2026**
-> Reem Fariha · Roshan A Rauof
+> Roshan A Rauof
 
 ---
 
@@ -381,7 +381,7 @@ Place downloaded files in `pirs_backend/dataset/`.
 ```bibtex
 @misc{pirs2026,
   title   = {PIRS: Predictive Intervention and Risk Stabilization for Insider Threat Prevention},
-  author  = {Fariha, Reem and Rauof, Roshan A},
+  author  = {Rauof, Roshan A},
   year    = {2026},
   school  = {VIT Chennai},
   note    = {MS Capstone Project, School of Computer Science and Engineering}
