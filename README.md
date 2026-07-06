@@ -384,7 +384,7 @@ Place downloaded files in `pirs_backend/dataset/`.
   author  = {Rauof, Roshan A},
   year    = {2026},
   school  = {VIT Chennai},
-  note    = {MS Capstone Project, School of Computer Science and Engineering}
+  note    = {Capstone Project, School of Computer Science and Engineering}
 }
 ```
 
