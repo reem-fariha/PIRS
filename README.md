@@ -10,7 +10,7 @@
 [![Live Demo](https://img.shields.io/badge/Live%20Demo-Streamlit-FF4B4B?logo=streamlit)](https://pirs-v2.streamlit.app/)
 
 > **Capstone Project - VIT Chennai, April 2026**
-> Roshan A Rauof, Reem Fariha
+> By Roshan A Rauof and Reem Fariha
 
 ---
 
